@@ -10,9 +10,9 @@ The coding file contain:
 
 ScreenCapture - video with code part, output part
 
-To run the code type:
 
-main.py
+
+
 
 
 Name: D Shilpa
